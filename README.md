@@ -44,7 +44,7 @@ Before installation, ensure you have:
 
 ```bash
 # HTTPS
-git clone https://github.com/yourusername/qr-code-generator.git
+git clone https://github.com/hridaya423/qr-code-generator.git
 
 # SSH
 git clone git@github.com:yourusername/qr-code-generator.git
